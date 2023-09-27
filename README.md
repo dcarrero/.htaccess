@@ -1,8 +1,8 @@
 # .htaccess
-This repository is a place to keep all the code snippets used for the [🔰 WordPress .htaccess Security tricks](https://wpxss.com/tips/wordpress-htaccess-security-tricks/) article on [wp✘SS](https://wpxss.com/about)
+Este repositorio es un lugar para guardar todos los fragmentos de código utilizados para el artículo [🔰 WordPress .htaccess Trucos de seguridad](https://wpxss.com/tips/wordpress-htaccess-security-tricks/) en [wp✘SS](https://wpxss.com/about). Y también del sitio en castellano [wpDirecto](https://wpdirecto.com)
 
-[github.io page](https://stefanpejcic.github.io/.htaccess/)
+El .htaccess es un importante archivo del núcleo de WordPress que se suele utilizar para añadir, modificar y anular configuraciones, parámetros de seguridad y rendimiento a nivel de servidor.
 
-The .htaccess is an important WordPress core file that is often used to add, modify and override server-level configurations, security and performance parameters.
+En muchos casos, puede resolver muchos problemas y desafíos operativos a nivel de servidor simplemente actualizando/cambiando reglas en el archivo htaccess de WordPress. Sin embargo, muchos propietarios de sitios web no son conscientes de todo el potencial de .htaccess para WordPress y por lo tanto pierden la oportunidad de optimizar su servidor (y sitio web) al máximo.wp✘SS
 
-In many cases, you can resolve many server-level operational issues and challenges by simply updating/changing rules in the WordPress htaccess file. However, many website owners are not aware of the full potential of .htaccess for WordPress and thus miss out on optimizing their server (and website) to the fullest.wp✘SS
+Traducido del inglés [github.io page](https://stefanpejcic.github.io/.htaccess/). Original de Stefan Pejcic.
